@@ -44,7 +44,7 @@ To watch a video about the code behind this app, see below.
 
 ## Deploy the App
 1. Select Deploy to Bluemix<br>
-  [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/watson-developer-cloud/conversation-enhanced)<br>
+  [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/mitchmason/convo-discovery)<br>
 2. Log in with an existing Bluemix account or sign up.<br>
 3. Name your app and select your REGION, ORGANIZATION, and SPACE. Then select DEPLOY.<br>
   ![](readme_images/deployapp1.PNG)<br>
